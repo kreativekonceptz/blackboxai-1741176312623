@@ -1,0 +1,19 @@
+{
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "editor.codeActions.triggerOnFocusChange": true,
+    "editor.defaultFormatter": "Blackboxapp.blackboxagent",
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.experimental.asyncTokenizationLogging": true,
+    "editor.experimental.asyncTokenizationVerification": true,
+    "editor.experimental.dropIntoEditor.defaultProvider": {
+        "ai": "root"
+    },
+    "editor.experimental.preferTreeSitter": [
+        "typescript"
+    ],
+    "editor.experimentalEditContextEnabled": true,
+    "editor.gotoLocation.alternativeImplementationCommand": "editor.action.goToImplementation",
+    "editor.gotoLocation.alternativeReferenceCommand": "editor.action.referenceSearch.trigger",
+    "editor.gotoLocation.alternativeTypeDefinitionCommand": "editor.action.peekDefinition"
+}
